@@ -80,12 +80,3 @@ open_to:
 **[AMTS](https://github.com/dp-rjt-prsd/AMTS)** — Asset management system built during my training at SAIL. Append-only audit logs over a normalised MySQL schema preserve a full chain of custody, behind three-tier role-based access control.
 
 **[PantryPal](https://github.com/dp-rjt-prsd/PantryPal)** — AI pantry manager. One Gemini vision call turns a photo of groceries into structured inventory, and recipes are ranked by what's closest to spoiling.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dp-rjt-prsd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp-rjt-prsd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
