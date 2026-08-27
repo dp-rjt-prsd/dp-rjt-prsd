@@ -38,7 +38,7 @@ Also:
   - Team Manager @ Team Orcus - 10+ member combat robotics team,
     podium finish at multiple national events 
 
-open_to:
+Open to:
   - SWE / backend internships for Summer 2027
   - Collaborations on developer tooling and browser extensions
 ```
