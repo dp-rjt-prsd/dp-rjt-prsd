@@ -27,7 +27,9 @@ Studying:
 
 Building:
   - Shrinkdown - a browser extension that converts documents on-device
-  - Backend APIs with FastAPI, Postgres-style relational schemas, JWT auth
+
+Learning:
+  - Java and DSA the slow way with one problem at a time
 
 Experience:
   - Summer Trainee @ SAIL R&D Centre for Iron & Steel
